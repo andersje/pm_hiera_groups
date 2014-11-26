@@ -1,0 +1,17 @@
+{
+  "name": "andersje-pm_hiera_groups",
+  "version": "0.1.0",
+  "author": "andersje",
+  "summary": "create groups from hiera",
+  "license": "GPLv3",
+  "source": "",
+  "project_page": null,
+  "issues_url": "email jeremy@andersand.com",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
